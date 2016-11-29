@@ -5,3 +5,5 @@ Since a few days ago, Tommy had started programming a "tic-tac-toe" simulation a
 After a while, we were able to identify the cause of the error: the showBoard() function, which serves to literally show the board on the command prompt, was located within a "do-while" section, a place where stuffs within the boundary is on a LOOP. Having found the main issue, Christopher had created a Java version of Tommy's code, which was written in C++. 
 
 Members finished up the meeting by analyzing each component and function in Tommy's code. 
+
+Our code can be found in the folder.
